@@ -1,0 +1,53 @@
+C:\Users\Ignaciowo\Desktop\Integracion de plataformas\appPrimer\appPrimer\bin\Debug\appPrimer.exe.config
+C:\Users\Ignaciowo\Desktop\Integracion de plataformas\appPrimer\appPrimer\bin\Debug\appPrimer.exe
+C:\Users\Ignaciowo\Desktop\Integracion de plataformas\appPrimer\appPrimer\bin\Debug\appPrimer.pdb
+C:\Users\Ignaciowo\Desktop\Integracion de plataformas\appPrimer\appPrimer\obj\Debug\appPrimer.csprojAssemblyReference.cache
+C:\Users\Ignaciowo\Desktop\Integracion de plataformas\appPrimer\appPrimer\obj\Debug\appPrimer.Properties.Resources.resources
+C:\Users\Ignaciowo\Desktop\Integracion de plataformas\appPrimer\appPrimer\obj\Debug\appPrimer.csproj.GenerateResource.cache
+C:\Users\Ignaciowo\Desktop\Integracion de plataformas\appPrimer\appPrimer\obj\Debug\appPrimer.exe
+C:\Users\Ignaciowo\Desktop\Integracion de plataformas\appPrimer\appPrimer\obj\Debug\appPrimer.pdb
+C:\Users\Ignaciowo\Desktop\Integracion de plataformas\appPrimer\appPrimer\obj\Debug\appPrimer.Login.resources
+C:\Users\Ignaciowo\Desktop\Integracion de plataformas\appPrimer\appPrimer\obj\Debug\appPrimer.MenuPrincipal.resources
+C:\Users\Ignaciowo\Desktop\Integracion de plataformas\appPrimer\appPrimer\obj\Debug\appPrimer.NuevaFicha.resources
+C:\Users\Ignaciowo\Desktop\Integracion de plataformas\appPrimer\appPrimer\obj\Debug\appPrimer.Productos.resources
+C:\Users\Ignaciowo\Desktop\Integracion de plataformas\appPrimer\appPrimer\obj\Debug\appPrimer.Inicio.resources
+C:\Users\Ignaciowo\Desktop\Integracion de plataformas\appPrimer\appPrimer\obj\Debug\appPrimer.GenerarFactura.resources
+C:\Users\Ignaciowo\Desktop\Integracion de plataformas\appPrimer\appPrimer\obj\Debug\appPrimer.GenerarBoleta.resources
+C:\Users\Ignaciowo\Desktop\Integracion de plataformas\appPrimer\appPrimer\obj\Debug\appPrimer.ListaClientes.resources
+C:\Users\Ignaciowo\Desktop\Integracion de plataformas\appPrimer\appPrimer\obj\Debug\appPrimer.Interfaz_de_usuario.Modificar.resources
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\bin\Debug\appPrimer.exe.config
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\bin\Debug\appPrimer.exe
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\bin\Debug\appPrimer.pdb
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\obj\Debug\appPrimer.csprojAssemblyReference.cache
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\obj\Debug\appPrimer.GenerarBoleta.resources
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\obj\Debug\appPrimer.GenerarFactura.resources
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\obj\Debug\appPrimer.Inicio.resources
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\obj\Debug\appPrimer.Login.resources
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\obj\Debug\appPrimer.MenuPrincipal.resources
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\obj\Debug\appPrimer.Interfaz_de_usuario.Modificar.resources
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\obj\Debug\appPrimer.NuevaFicha.resources
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\obj\Debug\appPrimer.Productos.resources
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\obj\Debug\appPrimer.ListaClientes.resources
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\obj\Debug\appPrimer.Properties.Resources.resources
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\obj\Debug\appPrimer.csproj.GenerateResource.cache
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\obj\Debug\appPrimer.exe
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\obj\Debug\appPrimer.pdb
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\obj\Debug\appPrimer.csproj.CopyComplete
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\bin\Debug\KhipuApiClient.dll
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\bin\Debug\Microsoft.Web.Services3.dll
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\bin\Debug\MQTTnet.dll
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\bin\Debug\RestSharp.dll
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\bin\Debug\Transbank.dll
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\bin\Debug\VisioForge.Controls.dll
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\bin\Debug\VisioForge.Controls.UI.Dialogs.dll
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\bin\Debug\VisioForge.Controls.UI.dll
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\bin\Debug\VisioForge.DirectX.dll
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\bin\Debug\VisioForge.MediaFramework.dll
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\bin\Debug\VisioForge.Shared.dll
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\bin\Debug\VisioForge.Tools.dll
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\bin\Debug\VisioForge.Types.dll
+C:\Users\Ignaciowo\Desktop\Aplicacion administrativa\appPrimer\appPrimer\bin\Debug\RestSharp.xml
